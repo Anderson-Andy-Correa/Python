@@ -1,13 +1,11 @@
-# MySQL
+# Python
 
 ## Atualmente contando com os Cursos:
 
-### Alura
-SQL com MySQL: Manipule e consulte dados
+### Curso em Video / Estudonauta
+LINGUAGEM PYTHON 3 - MUNDO 01: FUNDAMENTOS
 
-Consultas SQL: Avançando no SQL com MySQL
-##
+LINGUAGEM PYTHON 3 – MUNDO 02: ESTRUTURAS DE CONTROLE
 
-### Estudonauta
-MySQL: Modulo 00
+LINGUAGEM PYTHON 3 - MUNDO 03: ESTRUTURAS COMPOSTAS
 ##
